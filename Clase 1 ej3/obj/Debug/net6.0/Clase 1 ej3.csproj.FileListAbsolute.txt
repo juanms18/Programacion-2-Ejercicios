@@ -1,0 +1,15 @@
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\bin\Debug\net6.0\Clase 1 ej3.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\bin\Debug\net6.0\Clase 1 ej3.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\bin\Debug\net6.0\Clase 1 ej3.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\bin\Debug\net6.0\Clase 1 ej3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\bin\Debug\net6.0\Clase 1 ej3.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.csproj.AssemblyReference.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.AssemblyInfoInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.AssemblyInfo.cs
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.csproj.CoreCompileInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\refint\Clase 1 ej3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\Clase 1 ej3.genruntimeconfig.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 ej3\obj\Debug\net6.0\ref\Clase 1 ej3.dll

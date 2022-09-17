@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase2_ej 3/1.0.0": {
+        "runtime": {
+          "Clase2_ej 3.dll": {}
+        }
+      },
+      "Clase 1 ej3/1.0.0": {
+        "runtime": {
+          "Clase 1 ej3.dll": {}
+        }
+      },
+      "clase1 ej 2/1.0.0": {
+        "runtime": {
+          "clase1 ej 2.dll": {}
+        }
+      },
+      "Clase2_ej 2/1.0.0": {
+        "runtime": {
+          "Clase2_ej 2.dll": {}
+        }
+      },
+      "Clase2_ej 5/1.0.0": {
+        "runtime": {
+          "Clase2_ej 5.dll": {}
+        }
+      },
+      "ej 1/1.0.0": {
+        "runtime": {
+          "ej 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase2_ej 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase 1 ej3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "clase1 ej 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase2_ej 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase2_ej 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ej 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

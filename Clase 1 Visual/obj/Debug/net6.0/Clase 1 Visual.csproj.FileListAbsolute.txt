@@ -1,0 +1,15 @@
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\bin\Debug\net6.0\Clase 1 Visual.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\bin\Debug\net6.0\Clase 1 Visual.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\bin\Debug\net6.0\Clase 1 Visual.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\bin\Debug\net6.0\Clase 1 Visual.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\bin\Debug\net6.0\Clase 1 Visual.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.csproj.AssemblyReference.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.AssemblyInfoInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.AssemblyInfo.cs
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.csproj.CoreCompileInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\refint\Clase 1 Visual.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\Clase 1 Visual.genruntimeconfig.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 1 Visual\obj\Debug\net6.0\ref\Clase 1 Visual.dll

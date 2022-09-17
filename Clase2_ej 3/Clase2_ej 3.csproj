@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Clase2_ej_3</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Clase 1 ej3\Clase 1 ej3.csproj" />
+    <ProjectReference Include="..\clase1 ej 2\clase1 ej 2.csproj" />
+    <ProjectReference Include="..\Clase2_ej 2\Clase2_ej 2.csproj" />
+    <ProjectReference Include="..\Clase2_ej 5\Clase2_ej 5.csproj" />
+    <ProjectReference Include="..\ej 1\ej 1.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,41 @@
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.csproj.AssemblyReference.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.AssemblyInfoInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.AssemblyInfo.cs
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.csproj.CoreCompileInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 3.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 3.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 3.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 3.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\refint\Clase2_ej 3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.genruntimeconfig.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\ref\Clase2_ej 3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase 1 ej3.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase 1 ej3.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase 1 ej3.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\clase1 ej 2.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\clase1 ej 2.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\clase1 ej 2.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 2.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 2.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 2.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 5.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 5.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 5.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\ej 1.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\ej 1.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\ej 1.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase 1 ej3.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\clase1 ej 2.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 2.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 5.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\ej 1.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase 1 ej3.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\clase1 ej 2.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 2.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\Clase2_ej 5.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\bin\Debug\net6.0\ej 1.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase2_ej 3\obj\Debug\net6.0\Clase2_ej 3.csproj.CopyComplete

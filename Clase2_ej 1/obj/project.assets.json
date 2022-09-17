@@ -1,0 +1,193 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Clase 1 ej3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Clase 1 ej3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clase 1 ej3.dll": {}
+        }
+      },
+      "clase1 ej 2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/clase1 ej 2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/clase1 ej 2.dll": {}
+        }
+      },
+      "Clase2_ej 2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Clase2_ej 2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clase2_ej 2.dll": {}
+        }
+      },
+      "Clase2_ej 3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Clase 1 ej3": "1.0.0",
+          "Clase2_ej 2": "1.0.0",
+          "Clase2_ej 5": "1.0.0",
+          "clase1 ej 2": "1.0.0",
+          "ej 1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Clase2_ej 3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clase2_ej 3.dll": {}
+        }
+      },
+      "Clase2_ej 5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Clase2_ej 5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clase2_ej 5.dll": {}
+        }
+      },
+      "ej 1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ej 1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ej 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 1 ej3/1.0.0": {
+      "type": "project",
+      "path": "../Clase 1 ej3/Clase 1 ej3.csproj",
+      "msbuildProject": "../Clase 1 ej3/Clase 1 ej3.csproj"
+    },
+    "clase1 ej 2/1.0.0": {
+      "type": "project",
+      "path": "../clase1 ej 2/clase1 ej 2.csproj",
+      "msbuildProject": "../clase1 ej 2/clase1 ej 2.csproj"
+    },
+    "Clase2_ej 2/1.0.0": {
+      "type": "project",
+      "path": "../Clase2_ej 2/Clase2_ej 2.csproj",
+      "msbuildProject": "../Clase2_ej 2/Clase2_ej 2.csproj"
+    },
+    "Clase2_ej 3/1.0.0": {
+      "type": "project",
+      "path": "../Clase2_ej 3/Clase2_ej 3.csproj",
+      "msbuildProject": "../Clase2_ej 3/Clase2_ej 3.csproj"
+    },
+    "Clase2_ej 5/1.0.0": {
+      "type": "project",
+      "path": "../Clase2_ej 5/Clase2_ej 5.csproj",
+      "msbuildProject": "../Clase2_ej 5/Clase2_ej 5.csproj"
+    },
+    "ej 1/1.0.0": {
+      "type": "project",
+      "path": "../ej 1/ej 1.csproj",
+      "msbuildProject": "../ej 1/ej 1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Clase 1 ej3 >= 1.0.0",
+      "Clase2_ej 2 >= 1.0.0",
+      "Clase2_ej 3 >= 1.0.0",
+      "Clase2_ej 5 >= 1.0.0",
+      "clase1 ej 2 >= 1.0.0",
+      "ej 1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Juan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 1\\Clase2_ej 1.csproj",
+      "projectName": "Clase2_ej 1",
+      "projectPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 1\\Clase2_ej 1.csproj",
+      "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+      "outputPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase 1 ej3\\Clase 1 ej3.csproj": {
+              "projectPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase 1 ej3\\Clase 1 ej3.csproj"
+            },
+            "D:\\facultad\\programacion2\\Clase 1 Visual\\clase1 ej 2\\clase1 ej 2.csproj": {
+              "projectPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\clase1 ej 2\\clase1 ej 2.csproj"
+            },
+            "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 2\\Clase2_ej 2.csproj": {
+              "projectPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 2\\Clase2_ej 2.csproj"
+            },
+            "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 3\\Clase2_ej 3.csproj": {
+              "projectPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 3\\Clase2_ej 3.csproj"
+            },
+            "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 5\\Clase2_ej 5.csproj": {
+              "projectPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\Clase2_ej 5\\Clase2_ej 5.csproj"
+            },
+            "D:\\facultad\\programacion2\\Clase 1 Visual\\ej 1\\ej 1.csproj": {
+              "projectPath": "D:\\facultad\\programacion2\\Clase 1 Visual\\ej 1\\ej 1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
