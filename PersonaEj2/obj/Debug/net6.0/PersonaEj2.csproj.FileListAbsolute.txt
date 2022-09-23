@@ -1,0 +1,12 @@
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\bin\Debug\net6.0\PersonaEj2.deps.json
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\bin\Debug\net6.0\PersonaEj2.dll
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\bin\Debug\net6.0\PersonaEj2.pdb
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\PersonaEj2.csproj.AssemblyReference.cache
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\PersonaEj2.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\PersonaEj2.AssemblyInfoInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\PersonaEj2.AssemblyInfo.cs
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\PersonaEj2.csproj.CoreCompileInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\PersonaEj2.dll
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\refint\PersonaEj2.dll
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\PersonaEj2.pdb
+D:\facultad\programacion2\Clase 1 Visual\PersonaEj2\obj\Debug\net6.0\ref\PersonaEj2.dll

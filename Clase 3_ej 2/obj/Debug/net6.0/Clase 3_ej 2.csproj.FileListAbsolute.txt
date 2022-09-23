@@ -1,0 +1,18 @@
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.csproj.AssemblyReference.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.AssemblyInfoInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.AssemblyInfo.cs
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.csproj.CoreCompileInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\bin\Debug\net6.0\Clase 3_ej 2.exe
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\bin\Debug\net6.0\Clase 3_ej 2.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\bin\Debug\net6.0\Clase 3_ej 2.runtimeconfig.json
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\bin\Debug\net6.0\Clase 3_ej 2.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\bin\Debug\net6.0\Clase 3_ej 2.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\bin\Debug\net6.0\PersonaEj2.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\bin\Debug\net6.0\PersonaEj2.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.csproj.CopyComplete
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\refint\Clase 3_ej 2.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\Clase 3_ej 2.genruntimeconfig.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase 3_ej 2\obj\Debug\net6.0\ref\Clase 3_ej 2.dll
