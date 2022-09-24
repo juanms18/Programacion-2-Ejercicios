@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase4_Sumador/1.0.0": {
+        "runtime": {
+          "Clase4_Sumador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase4_Sumador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

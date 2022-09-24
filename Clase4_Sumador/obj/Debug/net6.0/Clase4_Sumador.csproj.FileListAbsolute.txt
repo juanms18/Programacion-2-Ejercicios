@@ -1,0 +1,12 @@
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\bin\Debug\net6.0\Clase4_Sumador.deps.json
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\bin\Debug\net6.0\Clase4_Sumador.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\bin\Debug\net6.0\Clase4_Sumador.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\Clase4_Sumador.csproj.AssemblyReference.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\Clase4_Sumador.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\Clase4_Sumador.AssemblyInfoInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\Clase4_Sumador.AssemblyInfo.cs
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\Clase4_Sumador.csproj.CoreCompileInputs.cache
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\Clase4_Sumador.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\refint\Clase4_Sumador.dll
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\Clase4_Sumador.pdb
+D:\facultad\programacion2\Clase 1 Visual\Clase4_Sumador\obj\Debug\net6.0\ref\Clase4_Sumador.dll

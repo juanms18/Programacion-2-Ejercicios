@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase 4_ ej_01/1.0.0": {
+        "dependencies": {
+          "Clase4_Sumador": "1.0.0"
+        },
+        "runtime": {
+          "Clase 4_ ej_01.dll": {}
+        }
+      },
+      "Clase4_Sumador/1.0.0": {
+        "runtime": {
+          "Clase4_Sumador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 4_ ej_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase4_Sumador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
