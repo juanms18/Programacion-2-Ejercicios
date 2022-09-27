@@ -25,9 +25,16 @@ namespace Vistas
             
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void FrmMiForm_FormClosing(object sender, FormClosingEventArgs e)
         {
-
+            if(MessageBox.Show("Desea Salir??", "mnesaje de salir", MessageBoxButtons.OKCancel) == DialogResult.Yes)
+            {
+                this.Close();
+            }
+            else
+            {
+                
+            }
         }
     }
 }

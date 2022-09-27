@@ -61,7 +61,6 @@
             this.textName.Name = "textName";
             this.textName.Size = new System.Drawing.Size(200, 34);
             this.textName.TabIndex = 2;
-            this.textName.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // FrmMiForm
             // 
@@ -74,6 +73,7 @@
             this.Controls.Add(this.btnSaludo);
             this.Name = "FrmMiForm";
             this.Text = "Mi primer formulario";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMiForm_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
